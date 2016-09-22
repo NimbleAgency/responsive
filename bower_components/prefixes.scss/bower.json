@@ -1,0 +1,25 @@
+{
+  "name": "prefixes.scss",
+  "version": "0.2.0",
+  "homepage": "https://github.com/pandao/prefixes.scss",
+  "authors": [
+    "pandao <272383090@qq.com>"
+  ],
+  "description": "CSS(3) prefixes mixins library for Sass/Scss, Custom you need CSS prefixes.",
+  "keywords": [
+    "css",
+    "prefix",
+    "mixins",
+    "sass",
+    "scss"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "research",
+    "test",
+    "tests"
+  ]
+}

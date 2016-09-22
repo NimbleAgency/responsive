@@ -1,0 +1,12 @@
+*,
+*:after,
+*:before {
+  @include box-sizing(border-box);
+}
+
+body {
+  font: $mainFont;
+  background: $backgroundColor;
+  color: $typeDefault;
+  margin: 0;
+}

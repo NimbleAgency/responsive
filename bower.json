@@ -1,0 +1,21 @@
+{
+  "name": "dream-site",
+  "version": "0.0.1",
+  "authors": [
+    "Jeff Nordstedt"
+  ],
+  "description": "Dream Milwaukees site",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "susy": "~2.2.12",
+    "breakpoint-sass": "^2.7.0",
+    "normalize-scss": "^3.0.3"
+  }
+}
