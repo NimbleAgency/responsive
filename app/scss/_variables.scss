@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2:200,400,600,800');
+
+@include border-box-sizing;
+
 // Grid
 $susy: (
   columns: 12,
@@ -44,11 +48,3 @@ $heavy                    : 800;
 $headFont                 : $thin 1.5em/1.5em $fontFamily;
 $mainFont                 : $thin 1em/1.5em $fontFamily;
 $headColor                : lighten($blue, 20);
-// Typography variables
-// $bodyFontFamily           : 'Assistant', 'Helvetica Neue', Helvetica, sans-serif;
-// $bodyFontWeight           : 300;
-// $bodyFontSize             : 16px;
-// $bodyLineHeight           : 1.5;
-
-// $displayFontFamily        : 'Permanent Marker', cursive;
-// $displayFontWeight        : 400;
