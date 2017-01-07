@@ -1,19 +1,1 @@
-// @import 'https://fonts.googleapis.com/css?family=Assistant:300,400,800|Permanent+Marker';
-@import 'https://fonts.googleapis.com/css?family=Exo+2:200,400,600,800';
 
-
-strong {
-  font-weight: $bold;
-}
-
-p {
-  font-weight: $thin;
-  padding-bottom: 10px;
-}
-
-#{headings(1,6)} {
-  font: $headFont;
-  color: $headColor;
-  font-weight: $bold;
-  margin: 0;
-}
