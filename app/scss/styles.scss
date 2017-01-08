@@ -3,6 +3,7 @@
 @import "../../bower_components/breakpoint-sass/stylesheets/breakpoint";
 
 // Core Partials
+@import "sanitize";
 @import "variables";
 @import "mixins";
 @import "typography";
