@@ -1,0 +1,10 @@
+#events {
+  h2 {margin-top: 0;}
+  #businessmeetings {
+    @include backImage('../images/hotel/events_conference.jpg', to right, 0, 0, 65% top);
+  }
+
+  #weddings {
+    @include backImage('../images/hotel/events_wedding.jpg', to left, 0, 0, 40% top);
+  }
+}
