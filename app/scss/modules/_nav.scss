@@ -72,7 +72,12 @@ header #nav {
             &.icon {
               background-image: none;
             }
-          }
+          } // breakpoint
+
+          &.active {
+            background-color: $red;
+            color: $light;
+          } // active
 
         } // a
       } // li
